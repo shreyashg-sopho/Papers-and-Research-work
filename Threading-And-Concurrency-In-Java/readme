@@ -1,4 +1,3 @@
-#Introduction 
 
 The first paper covers the basics of concurrency in Java and discusses on some Java objects such as "Future" that are used to achieve concurrencyin Java. 
 Knowledge of this is a pre-requisite for the second paper.
